@@ -16,7 +16,7 @@ An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to
 
 #### Session 1 (Overview)
 
-* Slides (*Coming soon on Monday before the class*)
+* [Slides](r_intro.pdf)
 * Code
     * Motivation Examples
         * Analyze portfolio performance (R Script: [performance_analysis.R](performance_analysis.R))
